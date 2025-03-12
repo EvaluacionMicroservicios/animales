@@ -1,0 +1,6 @@
+com\refuerzo\animales\service\AnimalesService.class
+com\refuerzo\animales\repository\AnimalesRepository.class
+com\refuerzo\animales\AnimalesApplication.class
+com\refuerzo\animales\model\Animal.class
+com\refuerzo\animales\controller\AnimalesController.class
+com\refuerzo\animales\service\impl\AnimalesImpl.class
